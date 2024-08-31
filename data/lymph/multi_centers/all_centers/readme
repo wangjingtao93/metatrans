@@ -1,0 +1,4 @@
+共四个中心
+将每个中心划分好的train val data test数据合到一块
+
+balance表示每个中心的部分数据已经平衡过

@@ -1,0 +1,241 @@
+ID,Resolution,Center,Class,Image_path
+1,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/8-B23-1887-4X.jpg
+2,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/6-B23-6101-4X.jpg
+3,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/10-B23-3383-4X.jpg
+4,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/4-XB23-04276-4X.jpg
+5,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/9-B23-1466-4X.jpg
+6,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/2-B20-1807-4X.jpg
+7,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/3-B17-0221-4X.jpg
+8,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/1-B20-1809-4X.jpg
+9,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/5-XB23-04253-4X.jpg
+10,4x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/4x/7-B23-6932-4X.jpg
+11,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/5-XB23-04253-10X.jpg
+12,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/4-XB23-04276-10X.jpg
+13,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/6-B23-6101-10X.jpg
+14,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/8-B23-1887-10X.jpg
+15,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/10-B23-3383-10X.jpg
+16,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/7-B23-6932-10X.jpg
+17,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/2-B20-1807-10X.jpg
+18,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/1-B20-1809-10X.jpg
+19,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/3-B17-0221-10X.jpg
+20,10x,nandafuyi,bf-micro,multi_centers/captions/nandafuyi/bf-micro/10x/9-B23-1466-10X.jpg
+21,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/2-1381540-4X.jpg
+22,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/3-1381540-1-4X.jpg
+23,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/9-795215-4X.jpg
+24,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/10-105837-4X.jpg
+25,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/6-1332190-4X.jpg
+26,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/7-1177567-4X.jpg
+27,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/8-1127526-4X.jpg
+28,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/1-1372664-1-4X.jpg
+29,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/5-1332190-4X.jpg
+30,4x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/4x/4-1372664-4X.jpg
+31,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/4-1372664-10X.jpg
+32,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/2-1381540-10X.jpg
+33,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/3-1381540-1-10X.jpg
+34,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/9-795215-10X.jpg
+35,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/1-1372664-1-10X.jpg
+36,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/5-1332190-10X.jpg
+37,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/8-1127526-10X.jpg
+38,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/7-1177567-10X.jpg
+39,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/10-105837-10X.jpg
+40,10x,nandafuyi,bf-normal,multi_centers/captions/nandafuyi/bf-negative/10x/6-1332190-10X.jpg
+41,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/1-X200142-4X.jpg
+42,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/7-X155926-4X.jpg
+43,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/10-X125877-4X.jpg
+44,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/4-X196972-4X.jpg
+45,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/9-X140230-4X.jpg
+46,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/3-X194337-4X.jpg
+47,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/6-X155926-4X.jpg
+48,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/8-X148792-4X.jpg
+49,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/5-X132727-4X.jpg
+50,4x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/4x/2-X088468-4X.jpg
+51,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/8-X148792-10X.jpg
+52,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/7-X155926-10X.jpg
+53,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/5-X132727-10X.jpg
+54,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/1-X200142-10X.jpg
+55,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/9-X140230-10X.jpg
+56,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/4-X196972-10X.jpg
+57,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/3-X194337-10X.jpg
+58,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/10-X125877-10X.jpg
+59,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/6-X155926-10X.jpg
+60,10x,nandafuyi,ffpe-micro,multi_centers/captions/nandafuyi/ffpe-micro/10x/2-X088468-10X.jpg
+61,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/6-X035157-4X.jpg
+62,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/10-1332190-4X.jpg
+63,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/1-1015837-4X.jpg
+64,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/4-1127526-4X.jpg
+65,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/7-1256982-4X.jpg
+66,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/3-795215-4X.jpg
+67,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/9-1332190-4X.jpg
+68,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/5-1127526-4X.jpg
+69,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/2-1015837-4X.jpg
+70,4x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/4x/8-1256982-4X.jpg
+71,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/10-1332190-10X.jpg
+72,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/1-1015837-10X.jpg
+73,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/8-1256982-10X.jpg
+74,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/4-1127526-10X.jpg
+75,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/6-X035157-10X.jpg
+76,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/7-1256982-10X.jpg
+77,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/3-795215-10X.jpg
+78,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/5-1127526-10X.jpg
+79,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/9-1332190-10X.jpg
+80,10x,nandafuyi,ffpe-normal,multi_centers/captions/nandafuyi/ffpe-negative/10x/2-1015837-10X.jpg
+81,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-5-4X.jpg
+82,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-8-4X.jpg
+83,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-10-4X.jpg
+84,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-6-4X.jpg
+85,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-2-4X.jpg
+86,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-1-4X.jpg
+87,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-7-4X.jpg
+88,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-4-4X.jpg
+89,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-3-4X.jpg
+90,4x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/4x/FS-P PHO-9-4X.jpg
+91,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-9-10X.jpg
+92,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-4-10X.jpg
+93,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-5-10X.jpg
+94,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-3-10X.jpg
+95,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-10-10X.jpg
+96,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-6-10X.jpg
+97,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-1-10X.jpg
+98,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-7-10X.jpg
+99,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-2-10X.jpg
+100,10x,zhongshaneryuan,bf-micro,multi_centers/captions/zhongshaneryuan/bf-micro/10x/FS-P PHO-8-10X.jpg
+101,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-5-4X.jpg
+102,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-2-4X.jpg
+103,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-8-4X.jpg
+104,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-4-4X.jpg
+105,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-1-4X.jpg
+106,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-6-4X.jpg
+107,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-3-4X.jpg
+108,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-7-4X.jpg
+109,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-9-4X.jpg
+110,4x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/4x/FS-N PHO-10-4X.jpg
+111,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-4-10X.jpg
+112,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-3-10X.jpg
+113,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-9-10X.jpg
+114,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-7-10X.jpg
+115,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-8-10X.jpg
+116,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-5-10X.jpg
+117,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-1-10X.jpg
+118,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-10-10X.jpg
+119,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-2-10X.jpg
+120,10x,zhongshaneryuan,bf-normal,multi_centers/captions/zhongshaneryuan/bf-negative/10x/FS-N PHO-6-10X.jpg
+121,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-9-4X.jpg
+122,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-6-4X.jpg
+123,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-7-4X.jpg
+124,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-2-4X.jpg
+125,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-5-4X.jpg
+126,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-8-4X.jpg
+127,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-1-4X.jpg
+128,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-10-4X.jpg
+129,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-4-4X.jpg
+130,4x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/4x/FFPE-P PHO-3-4X.jpg
+131,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-3-10X.jpg
+132,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-8-10X.jpg
+133,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-10-10X.jpg
+134,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-5-10X.jpg
+135,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-7-10X.jpg
+136,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-2-10X.jpg
+137,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-1-10X.jpg
+138,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-6-10X.jpg
+139,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-4-10X.jpg
+140,10x,zhongshaneryuan,ffpe-micro,multi_centers/captions/zhongshaneryuan/ffpe-micro/10x/FFPE-P PHO-9-10X.jpg
+141,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-6-4X.jpg
+142,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-4-4X.jpg
+143,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-3-4X.jpg
+144,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-9-4X.jpg
+145,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-1-4X.jpg
+146,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-8-4X.jpg
+147,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-7-4X.jpg
+148,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-5-4X.jpg
+149,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-10-4X.jpg
+150,4x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/4x/FFPE-N PHO-2-4X.jpg
+151,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-8-10X.jpg
+152,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-3-10X.jpg
+153,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-9-10X.jpg
+154,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-6-10X.jpg
+155,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-1-10X.jpg
+156,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-2-10X.jpg
+157,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-5-10X.jpg
+158,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-10-10X.jpg
+159,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-7-10X.jpg
+160,10x,zhongshaneryuan,ffpe-normal,multi_centers/captions/zhongshaneryuan/ffpe-negative/10x/FFPE-N PHO-4-10X.jpg
+161,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W22-00666-3-4X.jpg
+162,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W19-02159-2-4X.jpg
+163,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W20-02021-6-4X.jpg
+164,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W20-02021-5-4X.jpg
+165,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W21-00589-3-4X.jpg
+166,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W19-00993-5-4X.jpg
+167,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W22-00092-1-4X.jpg
+168,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W19-02159-3-4X.jpg
+169,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W19-02352-1-4X.jpg
+170,4x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/4x/W22-01028-2-4X.jpg
+171,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W20-02021-5-10X.jpg
+172,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W22-01028-2-10X.jpg
+173,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W19-02159-3-10X.jpg
+174,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W19-02159-2-10X.jpg
+175,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W20-02021-6-10X.jpg
+176,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W21-00589-3-10X.jpg
+177,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W19-00993-5-10X.jpg
+178,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W22-00092-1-10X.jpg
+179,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W22-00666-3-10X.jpg
+180,10x,zhongshansanyuan,bf-micro,multi_centers/captions/zhongshansanyuan/bf-micro/10x/W19-02352-1-10X.jpg
+181,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W21-01543-15-4X.jpg
+182,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W23-01557-6-4X.jpg
+183,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W21-01543-16-4X.jpg
+184,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W21-02856-12-4X.jpg
+185,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W21-02482-8-4X.jpg
+186,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W21-01730-21-4X.jpg
+187,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W23-00294-6-4X.jpg
+188,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W23-02713-2-4X.jpg
+189,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W21-01730-22-4X.jpg
+190,4x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/4x/W21-02482-7-4X.jpg
+191,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W23-00294-6-10X.jpg
+192,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W21-01730-22-10X.jpg
+193,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W21-02482-8-10X.jpg
+194,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W21-01543-16-10X.jpg
+195,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W21-01543-15-10X.jpg
+196,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W23-01557-6-10X.jpg
+197,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W21-01730-21-10X.jpg
+198,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W21-02856-12-10X.jpg
+199,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W21-02482-7-10X.jpg
+200,10x,zhongshansanyuan,bf-normal,multi_centers/captions/zhongshansanyuan/bf-negative/10x/W23-02713-2-10X.jpg
+201,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/22-12098-37-4X.jpg
+202,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/21-31125-24-4X.jpg
+203,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/23-08487-2-4X.jpg
+204,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/24-01155-9-4X.jpg
+205,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/21-31125-23-4X.jpg
+206,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/22-12098-25-4X.jpg
+207,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/22-12098-34-4X.jpg
+208,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/22-11283-27-4X.jpg
+209,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/24-00876-19-4X.jpg
+210,4x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/4x/22-03444-16-4X.jpg
+211,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/24-00876-19-10X.jpg
+212,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/22-03444-16-10X.jpg
+213,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/22-12098-34-10X.jpg
+214,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/24-01155-9-10X.jpg
+215,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/23-08487-2-10X.jpg
+216,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/22-11283-27-10X.jpg
+217,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/22-12098-25-10X.jpg
+218,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/21-31125-24-10X.jpg
+219,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/22-12098-37-10X.jpg
+220,10x,zhongshansanyuan,ffpe-micro,multi_centers/captions/zhongshansanyuan/ffpe-micro/10x/21-31125-23-10X.jpg
+221,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-03291-20-4X.jpg
+222,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-02327-5-4X.jpg
+223,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-25550-40-4X.jpg
+224,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-02327-6-4X.jpg
+225,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-25550-39-4X.jpg
+226,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-24829-17-4X.jpg
+227,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/22-32812-23-4X.jpg
+228,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-24829-21-4X.jpg
+229,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-03291-22-4X.jpg
+230,4x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/4x/23-24829-18-4X.jpg
+231,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-25550-40-10X.jpg
+232,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-02327-5-10X.jpg
+233,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/22-32812-23-10X.jpg
+234,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-03291-22-10X.jpg
+235,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-24829-21-10X.jpg
+236,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-24829-17-10X.jpg
+237,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-25550-39-10X.jpg
+238,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-03291-20-10X.jpg
+239,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-24829-18-10X.jpg
+240,10x,zhongshansanyuan,ffpe-normal,multi_centers/captions/zhongshansanyuan/ffpe-negative/10x/23-02327-6-10X.jpg

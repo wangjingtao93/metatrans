@@ -1,0 +1,365 @@
+maml:
+  n_inner: 5
+  outer_lr: 0.001
+  inner_lr: 0.01
+  n_epoch: 25
+reptile:
+  n_inner: 5
+  outer_lr: 0.001
+  inner_lr: 0.1
+  n_epoch: 25
+imaml:
+  n_inner: 25
+  outer_lr: 0.001
+  inner_lr: 0.01
+  n_epoch: 25
+dl:
+  n_inner: 25 # 未使用
+  outer_lr: 0.0001 # 未使用
+  inner_lr: 0.0001 # 未使用
+  n_epoch: 25
+pretrain:
+  n_inner: 25 # 未使用
+  outer_lr: 0.0001 # 未使用
+  inner_lr: 0.0001 # 未使用
+  n_epoch: 25
+predict/dl:
+  n_inner: 25 # 未使用
+  outer_lr: 0.0001 # 未使用
+  inner_lr: 0.0001 # 未使用
+  n_epoch: 25 # 未使用
+predict/imaml:
+  n_inner: 25 # 未使用
+  outer_lr: 0.0001 # 未使用
+  inner_lr: 0.0001 # 未使用
+  n_epoch: 25 # 未使用
+
+predict/maml:
+  n_inner: 25 # 未使用
+  outer_lr: 0.0001 # 未使用
+  inner_lr: 0.0001 # 未使用
+  n_epoch: 25 # 未使用
+
+predict/reptile:
+  n_inner: 25 # 未使用
+  outer_lr: 0.0001 # 未使用
+  inner_lr: 0.0001 # 未使用
+  n_epoch: 25 # 未使用
+
+
+load:
+  multi_centers_ffpe_4x:
+    predict/dl:
+      convnet_4: 
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/convnet_4/2024-06-07-12-32-51'
+        meta_epoch_for_predict: 0
+      squeezenet1_0: 
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/squeezenet1_0/2024-06-15-18-33-59'
+        meta_epoch_for_predict: 0
+      resnet18:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/resnet18/2024-06-16-10-21-55'
+        meta_epoch_for_predict: 0
+      resnet34:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/resnet34/2024-06-15-18-35-48'
+        meta_epoch_for_predict: 0
+      resnet50:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/resnet50/2024-06-15-21-51-29'
+        meta_epoch_for_predict: 0
+      vit_base_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/vit_base_patch16_224/2024-06-15-18-36-12'
+        meta_epoch_for_predict: 0
+      vit_small_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/vit_small_patch16_224/2024-06-07-12-31-57'
+        meta_epoch_for_predict: 0
+      mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/mt_small_model_lymph/2024-06-07-12-36-51'
+        meta_epoch_for_predict: 0
+    predict/imaml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/imaml/mt_small_model_lymph/2024-06-07-14-08-06'
+        meta_epoch_for_predict: 0
+    predict/maml: 
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/maml/mt_small_model_lymph/2024-06-07-14-09-48'
+        meta_epoch_for_predict: 2
+    predict/reptile:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/reptile/mt_small_model_lymph/2024-06-07-14-11-11'
+        meta_epoch_for_predict: 18
+
+  multi_centers_ffpe_10x:
+    predict/dl:
+      convnet_4: 
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/convnet_4/2024-06-07-21-31-27'
+        meta_epoch_for_predict: 0
+      squeezenet1_0: 
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/squeezenet1_0/2024-06-16-10-59-34'
+        meta_epoch_for_predict: 0
+      resnet18:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/resnet18/2024-06-05-11-17-50'
+        meta_epoch_for_predict: 0
+      resnet34:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/resnet34/2024-06-06-08-15-26'
+        meta_epoch_for_predict: 0
+      resnet50:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/resnet50/2024-06-15-21-51-53'
+        meta_epoch_for_predict: 0
+      vit_base_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/vit_base_patch16_224/2024-06-15-21-50-00'
+        meta_epoch_for_predict: 0
+      vit_small_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/vit_small_patch16_224/2024-06-06-08-23-44'
+        meta_epoch_for_predict: 0
+      mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/mt_small_model_lymph/2024-06-11-12-55-58'
+        meta_epoch_for_predict: 0
+    predict/imaml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/imaml/mt_small_model_lymph/2024-06-08-16-54-46'
+        meta_epoch_for_predict: 1
+    predict/maml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/maml/mt_small_model_lymph/2024-06-08-16-55-49'
+        meta_epoch_for_predict: 3
+    predict/reptile:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/reptile/mt_small_model_lymph/2024-06-08-16-56-55'
+        meta_epoch_for_predict: 4
+
+  multi_centers_bf_4x:
+    predict/dl:
+      convnet_4: 
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/convnet_4/2024-06-07-12-32-51'
+        meta_epoch_for_predict: 0
+      squeezenet1_0: 
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/squeezenet1_0/2024-06-15-18-33-59'
+        meta_epoch_for_predict: 0
+      resnet18:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/resnet18/2024-06-16-10-21-55'
+        meta_epoch_for_predict: 0
+      resnet34:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/resnet34/2024-06-07-12-31-16'
+        meta_epoch_for_predict: 0
+      resnet50:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/resnet50/2024-06-15-21-51-29'
+        meta_epoch_for_predict: 0
+      vit_base_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/vit_base_patch16_224/2024-06-15-18-36-12'
+        meta_epoch_for_predict: 0
+      vit_small_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/vit_small_patch16_224/2024-06-07-12-31-57'
+        meta_epoch_for_predict: 0
+      mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/dl/mt_small_model_lymph/2024-06-07-12-36-51'
+        meta_epoch_for_predict: 0
+    predict/imaml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/imaml/mt_small_model_lymph/2024-06-07-14-08-06'
+        meta_epoch_for_predict: 0
+    predict/maml: 
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/maml/mt_small_model_lymph/2024-06-07-14-09-48'
+        meta_epoch_for_predict: 0
+    predict/reptile:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_4x/reptile/mt_small_model_lymph/2024-06-07-14-11-11'
+        meta_epoch_for_predict: 18
+
+  multi_centers_bf_10x:
+    predict/dl:
+      convnet_4: 
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/convnet_4/2024-06-07-21-31-27'
+        meta_epoch_for_predict: 0
+      squeezenet1_0: 
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/squeezenet1_0/2024-06-16-10-59-34'
+        meta_epoch_for_predict: 0
+      resnet18:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/resnet18/2024-06-05-11-17-50'
+        meta_epoch_for_predict: 0
+      resnet34:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/resnet34/2024-06-06-08-15-26'
+        meta_epoch_for_predict: 0
+      resnet50:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/resnet50/2024-06-15-21-51-53'
+        meta_epoch_for_predict: 0
+      vit_base_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/vit_base_patch16_224/2024-06-15-21-50-00'
+        meta_epoch_for_predict: 0
+      vit_small_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/vit_small_patch16_224/2024-06-06-08-23-44'
+        meta_epoch_for_predict: 0
+      mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/dl/mt_small_model_lymph/2024-06-11-12-55-58'
+        meta_epoch_for_predict: 0
+    predict/imaml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/imaml/mt_small_model_lymph/2024-06-08-16-54-46'
+        meta_epoch_for_predict: 3
+    predict/maml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/maml/mt_small_model_lymph/2024-06-08-16-55-49'
+        meta_epoch_for_predict: 2
+    predict/reptile:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/multi_centers_ffpe_10x/reptile/mt_small_model_lymph/2024-06-08-16-56-55'
+        meta_epoch_for_predict: 4
+
+  camely_all_4x:
+    predict/dl:
+      convnet_4: 
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/dl/convnet_4/2024-06-16-11-17-57'
+        meta_epoch_for_predict: 0
+      squeezenet1_0: 
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/dl/squeezenet1_0/2024-06-15-11-35-35'
+        meta_epoch_for_predict: 0
+      resnet18:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/dl/resnet18/2024-06-15-11-39-18'
+        meta_epoch_for_predict: 0
+      resnet34:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/dl/resnet34/2024-06-15-11-39-46'
+        meta_epoch_for_predict: 0
+      resnet50:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/dl/resnet50/2024-06-15-21-52-18'
+        meta_epoch_for_predict: 0
+      vit_base_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/dl/vit_base_patch16_224/2024-06-15-12-15-30'
+        meta_epoch_for_predict: 0
+      vit_small_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/dl/vit_small_patch16_224/2024-06-15-12-47-49'
+        meta_epoch_for_predict: 0
+      mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/dl/mt_small_model_lymph/2024-06-15-13-54-22'
+        meta_epoch_for_predict: 0
+    predict/imaml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/imaml/mt_small_model_lymph/2024-06-16-12-10-01'
+        meta_epoch_for_predict: 1
+    predict/maml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/maml/mt_small_model_lymph/2024-06-16-12-11-38'
+        meta_epoch_for_predict: 7
+    predict/reptile:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_4x/reptile/mt_small_model_lymph/2024-06-16-12-12-31'
+        meta_epoch_for_predict: 4
+
+  camely_all_10x:
+    predict/dl:
+      convnet_4: 
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/dl/convnet_4/2024-06-16-11-18-27'
+        meta_epoch_for_predict: 0
+      squeezenet1_0: 
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/dl/squeezenet1_0/2024-06-15-11-33-04'
+        meta_epoch_for_predict: 0
+      resnet18:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/dl/resnet18/2024-06-15-13-51-54'
+        meta_epoch_for_predict: 0
+      resnet34:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/dl/resnet34/2024-06-15-13-52-37'
+        meta_epoch_for_predict: 0
+      resnet50:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/dl/resnet50/2024-06-15-21-53-03'
+        meta_epoch_for_predict: 0
+      vit_base_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/dl/vit_base_patch16_224/2024-06-15-18-32-35'
+        meta_epoch_for_predict: 0
+      vit_small_patch16_224:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/dl/vit_small_patch16_224/2024-06-15-18-32-52'
+        meta_epoch_for_predict: 0
+      mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/dl/mt_small_model_lymph/2024-06-15-13-55-11'
+        meta_epoch_for_predict: 0
+    predict/imaml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/imaml/mt_small_model_lymph/2024-06-16-16-11-18'
+        meta_epoch_for_predict: 1
+    predict/maml:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/maml/mt_small_model_lymph/2024-06-16-16-12-59'
+        meta_epoch_for_predict: 7
+    predict/reptile:
+     mt_small_model_lymph:
+        load_path: 'meta-learning-classfication/result/result_202405028/camely_all_10x/reptile/mt_small_model_lymph/2024-06-16-16-13-34'
+        meta_epoch_for_predict: 4
+
+  background_4x:
+    predict/dl:
+      convnet_4: 
+        load_path: ''
+        meta_epoch_for_predict: 0
+      squeezenet1_0: 
+        load_path: ''
+        meta_epoch_for_predict: 0
+      resnet18:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      resnet34:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      resnet50:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      vit_base_patch16_224:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      vit_small_patch16_224:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      mt_small_model_lymph:
+        load_path: ''
+        meta_epoch_for_predict: 0
+    predict/imaml:
+     mt_small_model_lymph:
+        load_path: ''
+        meta_epoch_for_predict: 1
+    predict/maml:
+     mt_small_model_lymph:
+        load_path: ''
+        meta_epoch_for_predict: 7
+    predict/reptile:
+     mt_small_model_lymph:
+        load_path: ''
+        meta_epoch_for_predict: 4
+
+  background_10x:
+    predict/dl:
+      convnet_4: 
+        load_path: ''
+        meta_epoch_for_predict: 0
+      squeezenet1_0: 
+        load_path: ''
+        meta_epoch_for_predict: 0
+      resnet18:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      resnet34:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      resnet50:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      vit_base_patch16_224:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      vit_small_patch16_224:
+        load_path: ''
+        meta_epoch_for_predict: 0
+      mt_small_model_lymph:
+        load_path: ''
+        meta_epoch_for_predict: 0
+    predict/imaml:
+     mt_small_model_lymph:
+        load_path: ''
+        meta_epoch_for_predict: 1
+    predict/maml:
+     mt_small_model_lymph:
+        load_path: ''
+        meta_epoch_for_predict: 7
+    predict/reptile:
+     mt_small_model_lymph:
+        load_path: ''
+        meta_epoch_for_predict: 4
+
+
+    
+  
